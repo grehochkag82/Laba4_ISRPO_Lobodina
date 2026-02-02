@@ -1,0 +1,15 @@
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\bin\Debug\net9.0\server.exe
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\bin\Debug\net9.0\server.deps.json
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\bin\Debug\net9.0\server.dll
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\bin\Debug\net9.0\server.pdb
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.dll
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.pdb
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\poche\Documents\Laba4_ISRPO_Lobodina\server\obj\Debug\net9.0\ref\server.dll
